@@ -64,9 +64,8 @@ This portfolio will showcase my **hands-on projects, security research, and clou
 ---
 
 ## 🚀 Let's Connect!
-💼 **LinkedIn:** [https://www.linkedin.com/in/frankiebrunojr/](#)  
-📝 **Blog:** [Your Blog (If applicable)](#)  
-🐙 **GitHub:** [Your GitHub Profile](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/frankiebrunojr/]  
+🐙 **GitHub:** [https://github.com/FrankieBruno/] 
 
 ---
 
